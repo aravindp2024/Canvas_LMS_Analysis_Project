@@ -1,5 +1,7 @@
 # Canvas LMS Research at Northeastern University
 
+![](https://github.com/aravindp2024/Canvas_LMS_Analysis_Project/blob/main/Canvas%20LMS.png)
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Objectives](#objectives)
@@ -49,6 +51,8 @@ This project was initiated to help Northeastern University understand how effect
 ### Data Collection
 Data was collected through a survey consisting of 21 questions, receiving a total of 700 responses. The survey was designed to explore both quantitative metrics and qualitative feedback on the use of Canvas by students and faculty members.
 
+![](https://github.com/aravindp2024/Canvas_LMS_Analysis_Project/blob/main/Data/Survey.jpg)
+
 ### Analytical Tools Used
 - **Google Spreadsheet**: For data collection and initial analysis.
 - **Qualtrics**: For designing and deploying surveys.
@@ -58,7 +62,11 @@ Data was collected through a survey consisting of 21 questions, receiving a tota
 ### Key Insights
 - **Survey Results**: Quantitative analysis revealed that a majority of students found Canvas intuitive, but highlighted issues with instructor engagement and interface complexity.
 - **Behavior Analysis**: A significant percentage of users preferred streamlined navigation, fewer clicks to access content, and improved assignment tracking.
+  
 - **User Personas**: Created detailed personas representing typical student and instructor roles, their goals, frustrations, and Canvas usage patterns.
+
+![](https://github.com/aravindp2024/Canvas_LMS_Analysis_Project/blob/main/Data/User_Persona.png)
+  
 - **Usability Testing**: Identified critical areas for UI improvement, including simplifying access to assignments and grades, and enhancing the visibility of course materials.
 
 ## Business Analysis
@@ -82,6 +90,9 @@ From the data gathered, several key challenges were identified:
 - Potential for expanding Northeastern’s digital resources to include more self-service educational tools.
 
 ## Project Process
+
+![](https://github.com/aravindp2024/Canvas_LMS_Analysis_Project/blob/main/Process/Design_Process.png)
+
 
 ### 1. Discovery Phase
 - Conducted initial qualitative and quantitative research to understand the problem space.
