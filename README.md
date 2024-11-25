@@ -127,7 +127,7 @@ From the data gathered, several key challenges were identified:
 - Reduced frustration for students by encouraging consistent module organization.
 - Opportunities for better engagement between faculty and students through the use of Canvas integrations.
 - Potential for expanding Northeastern’s digital resources to include more self-service educational tools.
-- 
+
 ## Takeaways
 The Canvas LMS research highlighted the importance of understanding user needs and how small interface changes can have a significant impact on user experience. This project not only strengthened skills in data analysis but also demonstrated the importance of a data-driven approach in UX research. Insights gathered from both qualitative and quantitative data provided a solid foundation for recommendations that can lead to meaningful improvements in Canvas’s functionality.
 
