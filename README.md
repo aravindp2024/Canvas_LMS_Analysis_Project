@@ -61,6 +61,9 @@ Data was collected through a survey consisting of 21 questions, receiving a tota
 
 ### Key Insights
 - **Survey Results**: Quantitative analysis revealed that a majority of students found Canvas intuitive, but highlighted issues with instructor engagement and interface complexity.
+
+![](https://github.com/aravindp2024/Canvas_LMS_Analysis_Project/blob/main/Analysis/Survey_Results.png)
+
 - **Behavior Analysis**: A significant percentage of users preferred streamlined navigation, fewer clicks to access content, and improved assignment tracking.
   
 - **User Personas**: Created detailed personas representing typical student and instructor roles, their goals, frustrations, and Canvas usage patterns.
@@ -78,6 +81,9 @@ From the data gathered, several key challenges were identified:
 - **Module Management**: Feedback suggested that organizing modules chronologically would improve clarity.
 
 ### Recommendations
+
+![](https://github.com/aravindp2024/Canvas_LMS_Analysis_Project/blob/main/Recomendations/Recomendations.png)
+
 - **Training for Instructors**: Encourage a standardized layout using modules, with detailed guidance on using advanced Canvas features.
 - **Interface Simplification**: Reduce the number of clicks needed to reach key content, including assignments, grades, and announcements.
 - **Consistent Usage**: Ensure instructors are consistent in their use of Canvas tools to minimize confusion.
